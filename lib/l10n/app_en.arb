@@ -1,0 +1,13 @@
+{
+  "bmi_calcultor": "BMI_Calcultor",
+  "age": "Age",
+  "male": "Male",
+  "female": "Female",
+  "height":"Height(cm)",
+  "weight":"Weight(Kg)",
+  "calculate":"Calculate BMI",
+  "you_bmi_is":"your bmi is",
+  "empty":"empty"
+
+}
+
